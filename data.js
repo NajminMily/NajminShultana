@@ -24,7 +24,7 @@ window.SITE = {
     email: "drnajminmily@gmail.com",
     photo: "assets/img/profile.jpg",      // put your photo here with this exact name (square works best)
     cv: "assets/cv.pdf",                  // replace this file to update your CV
-    tagline: "A medical doctor with clinical training across seven specialties, now seeking an MS or PhD in medical research, with a focus on maternal and child health.",
+    tagline: "A medical doctor with clinical training across seven specialties, now seeking an MS or PhD in medical research, with a focus on Biomedical, Public health, maternal and child health.",
     about: [
       "I am a medical doctor (MBBS, 2024) from Chattogram Maa-O-Shishu Hospital Medical College, Bangladesh, and a registered member of the Bangladesh Medical & Dental Council (BMDC).",
       "During a one-year internship I rotated through Medicine, Surgery, Obstetrics & Gynaecology, Paediatrics, Orthopaedics, Emergency Medicine and Community Medicine. I then worked as a Medical Officer at Mother & Child Care Hospital, Halishahar, and Al Hayat Hospital, Chittagong.",
